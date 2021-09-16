@@ -1,0 +1,9 @@
+D:\Cursos\DIO\Avanade CodeAnywhere2\Projetos\Dio.Avacloud\Dio.Avacloud.Entidades\bin\Debug\netcoreapp3.1\Dio.Avacloud.Entidades.deps.json
+D:\Cursos\DIO\Avanade CodeAnywhere2\Projetos\Dio.Avacloud\Dio.Avacloud.Entidades\bin\Debug\netcoreapp3.1\Dio.Avacloud.Entidades.dll
+D:\Cursos\DIO\Avanade CodeAnywhere2\Projetos\Dio.Avacloud\Dio.Avacloud.Entidades\bin\Debug\netcoreapp3.1\Dio.Avacloud.Entidades.pdb
+D:\Cursos\DIO\Avanade CodeAnywhere2\Projetos\Dio.Avacloud\Dio.Avacloud.Entidades\obj\Debug\netcoreapp3.1\Dio.Avacloud.Entidades.AssemblyInfoInputs.cache
+D:\Cursos\DIO\Avanade CodeAnywhere2\Projetos\Dio.Avacloud\Dio.Avacloud.Entidades\obj\Debug\netcoreapp3.1\Dio.Avacloud.Entidades.AssemblyInfo.cs
+D:\Cursos\DIO\Avanade CodeAnywhere2\Projetos\Dio.Avacloud\Dio.Avacloud.Entidades\obj\Debug\netcoreapp3.1\Dio.Avacloud.Entidades.csproj.CoreCompileInputs.cache
+D:\Cursos\DIO\Avanade CodeAnywhere2\Projetos\Dio.Avacloud\Dio.Avacloud.Entidades\obj\Debug\netcoreapp3.1\Dio.Avacloud.Entidades.dll
+D:\Cursos\DIO\Avanade CodeAnywhere2\Projetos\Dio.Avacloud\Dio.Avacloud.Entidades\obj\Debug\netcoreapp3.1\Dio.Avacloud.Entidades.pdb
+D:\Cursos\DIO\Avanade CodeAnywhere2\Projetos\Dio.Avacloud\Dio.Avacloud.Entidades\obj\Debug\netcoreapp3.1\DIO.Avacloud.Entidades.csproj.AssemblyReference.cache
